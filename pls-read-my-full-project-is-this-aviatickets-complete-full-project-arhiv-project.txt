@@ -1,0 +1,1 @@
+I couldn't download the entire project through Android Studio, so I downloaded the archive as winrar. By deadline, I mistakenly uploaded only those files that are inside the main folder by deadline, but then uploaded the entire project as winrar so that in the end you can see the entire project
